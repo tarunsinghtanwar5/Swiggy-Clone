@@ -1,9 +1,10 @@
 import './App.css';
+import Header from './components/Layout/Header';
 
 function App() {
   return (
     <div>
-      <h1>Swiggy-Clone</h1>
+      <Header />
     </div>
   );
 }
